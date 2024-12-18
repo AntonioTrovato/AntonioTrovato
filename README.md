@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello Everyone 👋
+
+My name is Antonio Trovato. I am a Ph.D. student in Computer Science at SeSaLab of the University of Salerno.
+
+🔭 I’m currently working on Software Engineering, Performance Engineering, and Quantum Software Engineering.
+⚡ I'm also a musician, in particular I'm a drummer.
 
 <!--
 **AntonioTrovato/AntonioTrovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
